@@ -1,0 +1,30 @@
+/* .curve{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+#curve path{
+    fill: #fff;
+} */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+}
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar-nav li{
+    padding: 0 10px;
+
+}
+.navbar-nav li a{
+    color: #fff !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
