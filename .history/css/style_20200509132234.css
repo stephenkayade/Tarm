@@ -207,7 +207,6 @@ body{
 .p-1{
     padding-top: 50%;
 }
-
 .row-pd{
     padding-bottom: 2rem;
 }
@@ -309,34 +308,10 @@ body{
   .b-1{
       border:none;
   }
-  #contact{
-      display: flex;
-      flex-direction: row;
-  }
-  .input-pd{
-    display: flex;
-    justify-content: space-evenly;
-}
   #contact input{
-    padding: 1rem;
-    width: 100%;
     border-top-style: hidden;
     border-right-style: hidden;
     border-left-style: hidden;
     border-bottom-style: groove;
     /* background-color: #eee; */
-    
-  }
-  #contact textarea{
-    padding: 1rem;
-    width: 100%;
-    border-top-style: hidden;
-    border-right-style: hidden;
-    border-left-style: hidden;
-    border-bottom-style: groove;
-    /* background-color: #eee; */
-    
-  }
-  .no-outline:focus {
-    outline: none;
   }

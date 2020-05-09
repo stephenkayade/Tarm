@@ -315,7 +315,7 @@ body{
   }
   .input-pd{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: start;
 }
   #contact input{
     padding: 1rem;

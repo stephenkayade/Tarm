@@ -207,7 +207,9 @@ body{
 .p-1{
     padding-top: 50%;
 }
-
+.input-pd{
+    padding-bottom: 2rem;
+}
 .row-pd{
     padding-bottom: 2rem;
 }
@@ -309,14 +311,6 @@ body{
   .b-1{
       border:none;
   }
-  #contact{
-      display: flex;
-      flex-direction: row;
-  }
-  .input-pd{
-    display: flex;
-    justify-content: space-evenly;
-}
   #contact input{
     padding: 1rem;
     width: 100%;
