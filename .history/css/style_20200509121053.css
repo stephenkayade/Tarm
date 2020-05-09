@@ -193,9 +193,6 @@ body{
 .ml-5{
     padding-top: 40%;
 }
-.ml-6{
-    padding-bottom: 2rem;
-}
 .faint{
     color: #333;
 }
@@ -223,7 +220,7 @@ body{
 }
 .btn-icon{
     width: 30%;
-    background: #07bda6;
+    background: #627374;
     border-radius: 50%;
     padding: 1rem;
 }

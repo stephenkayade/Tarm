@@ -193,9 +193,6 @@ body{
 .ml-5{
     padding-top: 40%;
 }
-.ml-6{
-    padding-bottom: 2rem;
-}
 .faint{
     color: #333;
 }
@@ -267,11 +264,11 @@ body{
     grid-template-columns: repeat(1, 1fr);
     grid-gap: 1rem;
     align-items: center;
-    grid-column: 2  2 / span 1;
+    grid-column: 4 / span 1;
   }
   
   #home-articles .articles-container > *:last-child {
-    grid-column: 2  2 / span 1;
+    grid-column: 1 / span 1;
   }
   .category {
     display: inline-block;
@@ -291,11 +288,6 @@ body{
     --ent-color: #a66bbe;
     --tech-color: #009cff;
   }
-  #work{
-      padding-top: 4rem;
-      margin-top: 4rem;
-  }
-  
   .work-img{
       
       display: flex;

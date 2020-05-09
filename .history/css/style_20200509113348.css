@@ -193,9 +193,6 @@ body{
 .ml-5{
     padding-top: 40%;
 }
-.ml-6{
-    padding-bottom: 2rem;
-}
 .faint{
     color: #333;
 }
@@ -292,10 +289,9 @@ body{
     --tech-color: #009cff;
   }
   #work{
-      padding-top: 4rem;
-      margin-top: 4rem;
+      padding-top: 2rem;
+      margin-top: 2rem;
   }
-  
   .work-img{
       
       display: flex;
